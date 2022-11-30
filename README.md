@@ -80,6 +80,7 @@ final Uri naverRoute = Uri(
 );
 ```
 #### 구글 맵
+#### 대중교통 타입만 이용가능(구글맵 자체에서 발생하는 문제점)
 ```dart
 /* NAVER */
 
